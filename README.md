@@ -2,4 +2,4 @@
 
 A demonstration of how to draw border around a group of items in `RecyclerView`
 
-<img src="https://imgur.com/a/cKDVL" width="480">
+<img src="https://i.stack.imgur.com/Ok90h.png" width="320" />
